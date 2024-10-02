@@ -52,7 +52,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": true
           },
           {
             "id": 2,
@@ -65,7 +66,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 3,
@@ -78,7 +80,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 4,
@@ -91,7 +94,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 5,
@@ -104,7 +108,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": true
           },
           {
             "id": 6,
@@ -117,7 +122,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 7,
@@ -130,7 +136,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 8,
@@ -143,7 +150,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": true
           },
           {
             "id": 9,
@@ -156,7 +164,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": true
           },
           {
             "id": 10,
@@ -169,7 +178,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": true
           },
           {
             "id": 11,
@@ -182,7 +192,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 12,
@@ -195,7 +206,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 13,
@@ -208,7 +220,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 14,
@@ -221,7 +234,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 15,
@@ -234,7 +248,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 16,
@@ -247,7 +262,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 17,
@@ -260,7 +276,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 18,
@@ -273,7 +290,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": true
           },
           {
             "id": 19,
@@ -286,7 +304,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 20,
@@ -299,7 +318,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 21,
@@ -312,7 +332,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 22,
@@ -325,7 +346,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": true
           },
           {
             "id": 23,
@@ -338,7 +360,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 24,
@@ -351,7 +374,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": true
           },
           {
             "id": 25,
@@ -364,7 +388,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": true
           },
           {
             "id": 26,
@@ -377,7 +402,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 27,
@@ -390,7 +416,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": true
           },
           {
             "id": 28,
@@ -403,7 +430,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": true
           },
           {
             "id": 29,
@@ -416,7 +444,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 30,
@@ -429,7 +458,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": false,
-            "isDiscount": true
+            "isDiscount": true,
+            "isBest": true
           },
           {
             "id": 31,
@@ -442,7 +472,8 @@ const data = {
             "quantity": 1,
             "priceShip": 10,
             "isNew": true,
-            "isDiscount": false
+            "isDiscount": false,
+            "isBest": true
           }
         ]
 };
