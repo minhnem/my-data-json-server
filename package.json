@@ -1,8 +1,9 @@
 {
-  "name": "my-jon-server",
+  "name": "my-json-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -10,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@vercel/node": "^3.2.17",
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.0",
+    "@vercel/node": "^1.12.0"   
   }
 }

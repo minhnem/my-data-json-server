@@ -5,6 +5,6 @@ const middlewares = jsonServer.defaults();    // Các middleware mặc định
 
 server.use(middlewares);
 server.use(router);
-server.listen(3000, () => {
+server.listen(process.env.PORT || 3000, () => {  // Sử dụng process.env.PORT cho Vercel
   console.log('JSON Server is running');
 });
