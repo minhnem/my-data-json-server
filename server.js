@@ -70,6 +70,20 @@ const data = {
             "isBest": false
           },
           {
+            "id": 20,
+            "category_id": 3,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727749714/best-3_chxose.png",
+            "title": "Túi Sách",
+            "rate": 18,
+            "price": 210,
+            "discount": 110,
+            "quantity": 1,
+            "priceShip": 10,
+            "isNew": false,
+            "isDiscount": true,
+            "isBest": false
+          },
+          {
             "id": 3,
             "category_id": 1,
             "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727748177/best-electronics-5_vaapqb.png",
@@ -98,17 +112,17 @@ const data = {
             "isBest": false
           },
           {
-            "id": 5,
-            "category_id": 1,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727748308/new-electronics-7_eorxun.png",
-            "title": "LapTop",
+            "id": 30,
+            "category_id": 2,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727750406/img-004_vkv43l.png",
+            "title": "Ghế Ngồi Nhỏ",
             "rate": 18,
             "price": 210,
             "discount": 110,
             "quantity": 1,
             "priceShip": 10,
-            "isNew": true,
-            "isDiscount": false,
+            "isNew": false,
+            "isDiscount": true,
             "isBest": true
           },
           {
@@ -123,20 +137,6 @@ const data = {
             "priceShip": 10,
             "isNew": false,
             "isDiscount": true,
-            "isBest": false
-          },
-          {
-            "id": 7,
-            "category_id": 1,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727749199/Annotation_2024-10-01_091901_xfd2os.png",
-            "title": "LapTop HP",
-            "rate": 18,
-            "price": 210,
-            "discount": 110,
-            "quantity": 1,
-            "priceShip": 10,
-            "isNew": true,
-            "isDiscount": false,
             "isBest": false
           },
           {
@@ -168,20 +168,6 @@ const data = {
             "isBest": true
           },
           {
-            "id": 10,
-            "category_id": 1,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727748709/new-electronics-14_r5jta4.png",
-            "title": "LapTop",
-            "rate": 18,
-            "price": 210,
-            "discount": 110,
-            "quantity": 1,
-            "priceShip": 10,
-            "isNew": false,
-            "isDiscount": true,
-            "isBest": true
-          },
-          {
             "id": 11,
             "category_id": 1,
             "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727748748/new-electronics-11_q60zvm.png",
@@ -196,18 +182,18 @@ const data = {
             "isBest": false
           },
           {
-            "id": 12,
-            "category_id": 1,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727748787/explore-5_udy6hp.png",
-            "title": "SmartPhone",
+            "id": 25,
+            "category_id": 2,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727750214/img-009_aeqbzn.png",
+            "title": "Kính Râm",
             "rate": 18,
             "price": 210,
             "discount": 110,
             "quantity": 1,
             "priceShip": 10,
-            "isNew": false,
-            "isDiscount": true,
-            "isBest": false
+            "isNew": true,
+            "isDiscount": false,
+            "isBest": true
           },
           {
             "id": 13,
@@ -238,6 +224,20 @@ const data = {
             "isBest": false
           },
           {
+            "id": 23,
+            "category_id": 4,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727750102/hurry-1_otuonp.png",
+            "title": "Giày Nữ",
+            "rate": 18,
+            "price": 210,
+            "discount": 110,
+            "quantity": 1,
+            "priceShip": 10,
+            "isNew": true,
+            "isDiscount": false,
+            "isBest": false
+          },
+          {
             "id": 15,
             "category_id": 1,
             "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727749038/Annotation_2024-10-01_091634_yuiyfa.png",
@@ -254,8 +254,8 @@ const data = {
           {
             "id": 16,
             "category_id": 1,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727749474/Annotation_2024-10-01_092411_bnblzx.png",
-            "title": "Iphone 15",
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1728094423/iphone14prm_atilr2.png",
+            "title": "Iphone 14 ProMax",
             "rate": 18,
             "price": 210,
             "discount": 110,
@@ -308,10 +308,10 @@ const data = {
             "isBest": false
           },
           {
-            "id": 20,
-            "category_id": 3,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727749714/best-3_chxose.png",
-            "title": "Túi Sách",
+            "id": 10,
+            "category_id": 1,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727748709/new-electronics-14_r5jta4.png",
+            "title": "LapTop",
             "rate": 18,
             "price": 210,
             "discount": 110,
@@ -319,12 +319,12 @@ const data = {
             "priceShip": 10,
             "isNew": false,
             "isDiscount": true,
-            "isBest": false
+            "isBest": true
           },
           {
             "id": 21,
             "category_id": 3,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727749799/explore-7_n9etsz.png",
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1728094172/son_nknpla.png",
             "title": "Son Môi",
             "rate": 18,
             "price": 210,
@@ -334,6 +334,20 @@ const data = {
             "isNew": true,
             "isDiscount": false,
             "isBest": false
+          },
+          {
+            "id": 5,
+            "category_id": 1,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727748308/new-electronics-7_eorxun.png",
+            "title": "LapTop",
+            "rate": 18,
+            "price": 210,
+            "discount": 110,
+            "quantity": 1,
+            "priceShip": 10,
+            "isNew": true,
+            "isDiscount": false,
+            "isBest": true
           },
           {
             "id": 22,
@@ -350,20 +364,6 @@ const data = {
             "isBest": true
           },
           {
-            "id": 23,
-            "category_id": 4,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727750102/hurry-1_otuonp.png",
-            "title": "Giày Nữ",
-            "rate": 18,
-            "price": 210,
-            "discount": 110,
-            "quantity": 1,
-            "priceShip": 10,
-            "isNew": true,
-            "isDiscount": false,
-            "isBest": false
-          },
-          {
             "id": 24,
             "category_id": 2,
             "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727750140/hurry-3_jj8gxc.png",
@@ -378,18 +378,18 @@ const data = {
             "isBest": true
           },
           {
-            "id": 25,
-            "category_id": 2,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727750214/img-009_aeqbzn.png",
-            "title": "Kính Râm",
+            "id": 12,
+            "category_id": 1,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1728094207/galaxyS24_vymukv.png",
+            "title": "SmartPhone",
             "rate": 18,
             "price": 210,
             "discount": 110,
             "quantity": 1,
             "priceShip": 10,
-            "isNew": true,
-            "isDiscount": false,
-            "isBest": true
+            "isNew": false,
+            "isDiscount": true,
+            "isBest": false
           },
           {
             "id": 26,
@@ -448,18 +448,18 @@ const data = {
             "isBest": false
           },
           {
-            "id": 30,
-            "category_id": 2,
-            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727750406/img-004_vkv43l.png",
-            "title": "Ghế Ngồi Nhỏ",
+            "id": 7,
+            "category_id": 1,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727749199/Annotation_2024-10-01_091901_xfd2os.png",
+            "title": "LapTop HP",
             "rate": 18,
             "price": 210,
             "discount": 110,
             "quantity": 1,
             "priceShip": 10,
-            "isNew": false,
-            "isDiscount": true,
-            "isBest": true
+            "isNew": true,
+            "isDiscount": false,
+            "isBest": false
           },
           {
             "id": 31,
@@ -474,7 +474,21 @@ const data = {
             "isNew": true,
             "isDiscount": false,
             "isBest": true
-          }
+          },
+          {
+            "id": 32,
+            "category_id": 4,
+            "img": "https://res.cloudinary.com/dyu519e7i/image/upload/v1727707092/samples/ecommerce/shoes.png",
+            "title": "Giày Thể Thao",
+            "rate": 18,
+            "price": 210,
+            "discount": 110,
+            "quantity": 1,
+            "priceShip": 10,
+            "isNew": true,
+            "isDiscount": true,
+            "isBest": false
+          },
         ]
 };
 
